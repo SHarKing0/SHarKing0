@@ -1,0 +1,1 @@
+alert("asilni koti chetki")
